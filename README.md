@@ -37,7 +37,9 @@ Follow these instructions to get the project up and running on your local machin
    ```bash
    git clone https://github.com/Shaikh-abid/Book-Management-Project-.git
 2. Build the project using Maven
-      mvn clean install
+
+     mvn clean install
+   
    
 ## Contributing
 
