@@ -35,5 +35,18 @@ Follow these instructions to get the project up and running on your local machin
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/book-management-system.git
-   cd book-management-system
+   git clone https://github.com/Shaikh-abid/Book-Management-Project-.git
+2. Build the project using Maven
+      mvn clean install
+   
+## Contributing
+
+Contributions are welcome! If you find any issues or want to enhance the project, feel free to create a pull request.
+
+    Fork the project.
+    Create a new branch (git checkout -b feature/your-feature).
+    Make your changes and commit them (git commit -m 'Add some feature').
+    Push the changes to your branch (git push origin feature/your-feature).
+    Open a pull request.
+    
+Happy coding! 🚀
